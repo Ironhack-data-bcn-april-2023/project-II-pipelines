@@ -92,6 +92,33 @@ However, even though the executable file will only be the `cleaning.py`, that do
 6-other-functions-you-can-think-of.py
 ```
 
+## Suggested ways to get started
+
+- We recommend that on the first day of the project kick-off, you find a theme to base your project on, you can start by basing it on what areas you like, here are some examples:
+
+	- Gastronomy
+	- Health
+	- Economy
+	- Sports
+	- Marketing
+	- Aviation
+	- Fashion
+	- Manufacturing
+	- War
+
+Then, within each area there are different topics, for example:
+
+Within gastronomy we can find topics such as the evolution of gastronomy in Europe and new trends and how it influences the business. Or the best gastronomies in the world and what to consider before setting up a restaurant, etc…
+
+- Find the data source, establish whether you want to use an API, do the process by web scraping or use several kaggle tables.
+- After you have the data, examine them and try to understand them and adjust them to your hypotheses or change your hypotheses in case new ones have arisen from examining the data.
+- Break the project down into different steps - use the topics covered in the lessons to form a check list, add anything else you can think of that may be wrong with your data set, and then work through the check list.
+- Use the tools in your tool kit - your knowledge of Python, data structures, Pandas, and data wrangling. Work through the lessons in class & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... procrastinating.
+- Commit early, commit often, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
+- Consult documentation and resources provided to better understand the tools you are using and how to accomplish what you want.
+
+
+
 ## Super Ultra Mega Blaster Tips
 
 * **Choose the data sources ASAP** and try to **stick to the plan**. Don't switch datasets/API's/webs halfway. 
